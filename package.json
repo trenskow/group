@@ -1,7 +1,7 @@
 {
   "name": "@trenskow/group",
   "version": "0.0.1",
-  "description": "A simple library to group items in an array in JavaScript.",
+  "description": "A small JavaScript function for grouping items in an array.",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha ./test/index.js"
