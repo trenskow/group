@@ -1,0 +1,27 @@
+{
+  "name": "@trenskow/group",
+  "version": "0.0.1",
+  "description": "A simple library to group items in an array in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trenskow/groupie.git"
+  },
+  "keywords": [
+    "array",
+    "group"
+  ],
+  "author": "Kristian Trenskow <trenskow@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trenskow/groupie/issues"
+  },
+  "homepage": "https://github.com/trenskow/groupie#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.1"
+  }
+}
