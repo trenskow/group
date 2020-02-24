@@ -20,7 +20,7 @@ exports = module.exports = (array, tester) => {
 		// Find, add to group and remove from input any items that matches group.
 		for (let iIdx = 0 ; iIdx < copy.length ; iIdx++) {
 			if (tester(outer, copy[iIdx])) {
-				group.push(copy.splice(iIdx, 1)[0]);
+				group.push(copy.splice(iIdx--, 1)[0]);
 			}
 		}
 	}
