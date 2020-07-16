@@ -1,6 +1,6 @@
 {
   "name": "@trenskow/group",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A small JavaScript function for grouping items in an array.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trenskow/groupie.git"
+    "url": "git+https://github.com/trenskow/group.git"
   },
   "keywords": [
     "array",
