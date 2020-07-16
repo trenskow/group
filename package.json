@@ -1,6 +1,6 @@
 {
   "name": "@trenskow/group",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A small JavaScript function for grouping items in an array.",
   "main": "index.js",
   "scripts": {
@@ -17,9 +17,9 @@
   "author": "Kristian Trenskow <trenskow@me.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/trenskow/groupie/issues"
+    "url": "https://github.com/trenskow/group/issues"
   },
-  "homepage": "https://github.com/trenskow/groupie#readme",
+  "homepage": "https://github.com/trenskow/group#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^7.0.1"
