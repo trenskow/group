@@ -2,6 +2,8 @@
 
 exports = module.exports = (array, tester) => {
 
+	tester = tester || ((i1, i2) => i1 === i2);
+
 	let groups = [];
 
 	// First we copy the input as we need to slice it up.
