@@ -1,6 +1,6 @@
 {
   "name": "@trenskow/group",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A small JavaScript function for grouping items in an array.",
   "main": "index.js",
   "scripts": {
@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/trenskow/group#readme",
   "devDependencies": {
-    "chai": "^4.2.0",
-    "eslint": "^7.19.0",
-    "mocha": "^7.0.1"
+    "chai": "^4.3.4",
+    "eslint": "^8.2.0",
+    "mocha": "^9.1.3"
   }
 }
