@@ -3,6 +3,7 @@
   "version": "0.0.20",
   "description": "A small JavaScript function for grouping items in an array.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha.js ./test/index.js"
   },

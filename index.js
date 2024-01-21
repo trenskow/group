@@ -1,6 +1,4 @@
-'use strict';
-
-exports = module.exports = (array, tester) => {
+export default (array, tester) => {
 
 	tester = tester || ((i1, i2) => i1 === i2);
 

@@ -1,10 +1,6 @@
-'use strict';
+import { expect } from 'chai';
 
-const
-	{ expect } = require('chai');
-
-const
-	groupie = require('../');
+import groupie from '../index.js';
 
 describe('groupie', () => {
 	it ('should come back with the array grouped.', () => {
