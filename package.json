@@ -1,32 +1,32 @@
 {
-  "name": "@trenskow/group",
-  "version": "0.0.27",
-  "description": "A small JavaScript function for grouping items in an array.",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "test": "./node_modules/mocha/bin/mocha.js ./test/index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/trenskow/group.git"
-  },
-  "keywords": [
-    "array",
-    "group"
-  ],
-  "author": "Kristian Trenskow <trenskow@me.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/trenskow/group/issues"
-  },
-  "homepage": "https://github.com/trenskow/group#readme",
-  "devDependencies": {
-    "@eslint/eslintrc": "^3.1.0",
-    "@eslint/js": "^9.13.0",
-    "chai": "^5.1.1",
-    "eslint": "^9.13.0",
-    "globals": "^15.11.0",
-    "mocha": "^10.7.3"
-  }
+	"name": "@trenskow/group",
+	"version": "0.0.27",
+	"description": "A small JavaScript function for grouping items in an array.",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "./node_modules/mocha/bin/mocha.js ./test/index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/trenskow/group.git"
+	},
+	"keywords": [
+		"array",
+		"group"
+	],
+	"author": "Kristian Trenskow <trenskow@me.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/trenskow/group/issues"
+	},
+	"homepage": "https://github.com/trenskow/group#readme",
+	"devDependencies": {
+		"@eslint/eslintrc": "^3.1.0",
+		"@eslint/js": "^9.13.0",
+		"chai": "^5.1.1",
+		"eslint": "^9.13.0",
+		"globals": "^15.11.0",
+		"mocha": "^10.7.3"
+	}
 }
