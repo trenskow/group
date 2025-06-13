@@ -1,6 +1,6 @@
 {
 	"name": "@trenskow/group",
-	"version": "0.0.38",
+	"version": "0.0.39",
 	"description": "A small JavaScript function for grouping items in an array.",
 	"main": "index.js",
 	"type": "module",
